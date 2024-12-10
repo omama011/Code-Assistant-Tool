@@ -30,6 +30,6 @@ REST API (POST) is used to send prompts and receive responses from the model
 
 
 Here is a screenshot of the application:
-![Screenshot](images/Screenshot 2024-12-10 171336.png)
-![Screenshot](images/Screenshot 2024-12-10 171913.png)
-![Screenshot](images/Screenshot 2024-12-10 192056.png)
+![Screenshot](images/Screenshot%202024-12-10%20171336.png)
+![Screenshot](images/Screenshot%202024-12-10%20171913.png)
+![Screenshot](images/Screenshot%202024-12-10%20192056.png)
